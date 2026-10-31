@@ -1,0 +1,10 @@
+a=20
+b=10
+c=a+b
+print("Addition=",c)
+c=a-b
+print("Substraction=",c)
+c=a*b
+print("Multiplication=",c)
+c=a/b
+print("Division=",c)
